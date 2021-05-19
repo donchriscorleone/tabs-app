@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tabs-app/static/css/main.d59ee7c8.chunk.css",
+    "main.js": "/tabs-app/static/js/main.36ac90aa.chunk.js",
+    "main.js.map": "/tabs-app/static/js/main.36ac90aa.chunk.js.map",
+    "runtime-main.js": "/tabs-app/static/js/runtime-main.9301860e.js",
+    "runtime-main.js.map": "/tabs-app/static/js/runtime-main.9301860e.js.map",
+    "static/js/2.3c3da63b.chunk.js": "/tabs-app/static/js/2.3c3da63b.chunk.js",
+    "static/js/2.3c3da63b.chunk.js.map": "/tabs-app/static/js/2.3c3da63b.chunk.js.map",
+    "index.html": "/tabs-app/index.html",
+    "static/css/main.d59ee7c8.chunk.css.map": "/tabs-app/static/css/main.d59ee7c8.chunk.css.map",
+    "static/js/2.3c3da63b.chunk.js.LICENSE.txt": "/tabs-app/static/js/2.3c3da63b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9301860e.js",
+    "static/js/2.3c3da63b.chunk.js",
+    "static/css/main.d59ee7c8.chunk.css",
+    "static/js/main.36ac90aa.chunk.js"
+  ]
+}
